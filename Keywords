@@ -17,3 +17,4 @@ _ => underscore
 / => forward slash
 \ => back slash
 primitive = ilkel
+instance = new ile veri oluşturmak
